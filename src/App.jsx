@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import PuppyList from './components/PuppyList'; 
 import './App.css'
 

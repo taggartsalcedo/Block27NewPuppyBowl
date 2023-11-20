@@ -27,7 +27,7 @@ return (
                 <img src={puppy.imageURL} alt="puppy" />
                 <h3 key={puppy.name}>{puppy.name}</h3>         
             </div> 
-        })}
+        })};
     </div>
     </>
   )
